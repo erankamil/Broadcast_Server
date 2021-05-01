@@ -1,0 +1,10 @@
+C:\Users\erank\source\repos\BroadcastServer\BroadcastServer\obj\Debug\BroadcastServer.csprojAssemblyReference.cache
+C:\Users\erank\source\repos\BroadcastServer\BroadcastServer\obj\Debug\BroadcastServer.csproj.CoreCompileInputs.cache
+C:\Users\erank\source\repos\BroadcastServer\BroadcastServer\bin\Debug\BroadcastServer.exe
+C:\Users\erank\source\repos\BroadcastServer\BroadcastServer\bin\Debug\BroadcastServer.pdb
+C:\Users\erank\source\repos\BroadcastServer\BroadcastServer\obj\Debug\BroadcastServer.exe
+C:\Users\erank\source\repos\BroadcastServer\BroadcastServer\obj\Debug\BroadcastServer.pdb
+C:\Users\erank\source\repos\BroadcastServer\BroadcastServer\bin\Debug\BroadcastServer.exe.config
+C:\Users\erank\source\repos\BroadcastServer\BroadcastServer\bin\Debug\log4net.dll
+C:\Users\erank\source\repos\BroadcastServer\BroadcastServer\bin\Debug\log4net.xml
+C:\Users\erank\source\repos\BroadcastServer\BroadcastServer\obj\Debug\BroadcastServer.csproj.CopyComplete
